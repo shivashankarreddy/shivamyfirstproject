@@ -36,3 +36,41 @@ linux is great os. linux is opensource. linux is free os.
 learn operating system.
 linuxlinux which one you choose.
 
+4.sed 's/unix/linux/3g' shivasedcommands.txt unix is great os. unix is opensource. linux is free os.
+learn operating system.
+unixlinux which one you choose.
+
+This is Shiva sed commands Projest
+
+1.sed 's/unix/linux/' shivasedcommands.txt
+linux is great os. unix is opensource. unix is free os.
+learn operating system.
+linuxlinux which one you choose.
+This is Shiva sed commands Projest
+
+
+2.sed 's/unix/linux/2' shivasedcommands.txt
+unix is great os. linux is opensource. unix is free os.
+learn operating system.
+unixlinux which one you choose.
+
+
+3.sed 's/unix/linux/g' shivasedcommands.txt
+linux is great os. linux is opensource. linux is free os.
+learn operating system.
+linuxlinux which one you choose.
+
+This is Shiva sed commands Projest
+
+sed 's/linux/linux/' shivasedcommands.txt
+linux is great os. linux is opensource. linux is free os.
+learn operating system.
+linuxlinux which one you choose.
+This is Shiva sed commands Projest
+
+
+sed 's/linux/linux/2' shivasedcommands.txt
+linux is great os. linux is opensource. linux is free os.
+learn operating system.
+linuxlinux which one you choose.
+
