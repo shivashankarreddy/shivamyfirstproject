@@ -1,3 +1,11 @@
+
+sed 's/https:\/\//www/' shivanewsedcommands.txt
+unix is great os. unix is opensource. unix is free os.
+learn operating system.
+unixlinux which one you choose.
+wwwwww.google.co.in/
+
+
 unix is great os. unix is opensource. unix is free os.
 learn operating system.
 unixlinux which one you choose.
@@ -12,6 +20,8 @@ This is Shiva sed commands Projest
 3.sed 's/unix/linux/g' shivasedcommands.txt
 
 4.sed 's/unix/linux/3g' shivasedcommands.txt
+
+5.sed 's/https:\/\//www/' shivanewsedcommands.txt
 
 
 NewSed commands
