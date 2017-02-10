@@ -1,1 +1,17 @@
+unix is great os. unix is opensource. unix is free os.
+learn operating system.
+unixlinux which one you choose.
+https://www.google.co.in/
+
+This is Shiva sed commands Projest
+
+1.sed 's/unix/linux/' shivasedcommands.txt
+
+2.sed 's/unix/linux/2' shivasedcommands.txt
+
+3.sed 's/unix/linux/g' shivasedcommands.txt
+
+4.sed 's/unix/linux/3g' shivasedcommands.txt
+
+
 NewSed commands
