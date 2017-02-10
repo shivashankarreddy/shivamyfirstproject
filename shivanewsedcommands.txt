@@ -3,7 +3,7 @@ sed 's/https:\/\//www/' shivanewsedcommands.txt
 unix is great os. unix is opensource. unix is free os.
 learn operating system.
 unixlinux which one you choose.
-wwwwww.google.co.in/
+_https://_wwwwww.google.co.in/
 
 
 unix is great os. unix is opensource. unix is free os.
